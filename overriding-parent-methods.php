@@ -22,7 +22,7 @@ Check the Hint for refreshers if you need them! -->
                 }
             }
             $bicycle=new Bicycle();
-            $bicycle->honk();
+        echo    $bicycle->honk();
         ?>
     </p>
 </body>
